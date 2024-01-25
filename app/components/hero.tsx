@@ -10,7 +10,7 @@ export default function Hero() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <div className="bg-white">
+    <div className="bg-white h-screen">
       <div className="relative isolate px-6 lg:px-8">
         <div className="mx-auto max-w-4xl py-10 sm:py-6">
           <div className="sm:mb-6 flex justify-center">
