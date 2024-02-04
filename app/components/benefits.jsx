@@ -2,14 +2,14 @@ import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/2
 
 const features = [
   {
-    name: 'Push to deploy.',
+    name: 'Beneficios.',
     description:
       'Al ofrecer apoyo financiero, permitimos a los estudiantes perseguir sus sueños educativos.',
     icon: CloudArrowUpIcon,
   },
   {
-    name: 'SSL certificates.',
-    description: 'Invertir en educación crea una comunidad más fuerte y próspera para todos.',
+    name: 'Impacto.',
+    description: 'Construyendo una comunidad más fuerte a través de la educación y oportunidades iguales para todos.',
     icon: LockClosedIcon,
   },
 ]

@@ -4,6 +4,7 @@ import Hero from './components/hero'
 import Feature from './components/feature'
 import FeatureList from './components/feature-list'
 import Benefits from './components/benefits'
+import CTA from './components/cta'
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Feature/> 
       <FeatureList/>
       <Benefits/>
+      <CTA/>
     </main>
   )
 }

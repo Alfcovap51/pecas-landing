@@ -2,9 +2,9 @@ import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/2
 
 const features = [
   {
-    name: 'Cambio con impacto',
+    name: 'Acceso a la educacion',
     description:
-      'Help us make a difference by supporting our mission to provide education for all.',
+      'Ayudar a los jóvenes estudiantes a superar barreras y alcanzar su máximo potencial a través de la educación.',
     icon: CloudArrowUpIcon,
   },
   {
